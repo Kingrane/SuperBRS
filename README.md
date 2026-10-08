@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="superbrs.gif" alt="Демо SuperBRS" width="90%" />
+<img src="assets/superbrs-v2.gif" alt="Демо SuperBRS" width="90%" />
 
 <br/>
 
